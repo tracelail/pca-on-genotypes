@@ -1,1 +1,0 @@
-# pca-on-genotypes
